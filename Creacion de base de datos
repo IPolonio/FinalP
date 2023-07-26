@@ -2,6 +2,9 @@ Agregre esto a su gestor de base de datos
 
 el puerto de conexion en mi caso era el 3306
 
+create database hola;
+use hola;
+
 CREATE TABLE log (
     nombre varchar (44) PRIMARY KEY,
     apellido VARCHAR(50),
