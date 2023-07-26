@@ -1,4 +1,4 @@
-# FinalP
+# FinalP   Por favor abrir el readme informacion importante 
 Proyecto CRUD
 #Proyecto CRUD para la materia Programacion 1 ,por Isaac Alexander Polonio Lorenzo, matricula 2022-1934
 
