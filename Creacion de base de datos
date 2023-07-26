@@ -1,0 +1,16 @@
+Agregre esto a su gestor de base de datos
+
+el puerto de conexion en mi caso era el 3306
+
+CREATE TABLE log (
+    nombre varchar (44) PRIMARY KEY,
+    apellido VARCHAR(50),
+   Telefono varchar(20),
+   Correo varchar(44),
+   usuario varchar(44),
+   contraseña varchar(44)
+   
+    
+);
+
+
