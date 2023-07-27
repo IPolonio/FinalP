@@ -5,7 +5,7 @@ el puerto de conexion en mi caso era el 3306
 create database hola;
 use hola;
 
-CREATE TABLE log_new (
+CREATE TABLE log (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(44),
     apellido VARCHAR(50),
