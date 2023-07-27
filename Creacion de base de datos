@@ -5,15 +5,16 @@ el puerto de conexion en mi caso era el 3306
 create database hola;
 use hola;
 
-CREATE TABLE log (
-    nombre varchar (44) PRIMARY KEY,
+CREATE TABLE log_new (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(44),
     apellido VARCHAR(50),
-   Telefono varchar(20),
-   Correo varchar(44),
-   usuario varchar(44),
-   contraseña varchar(44)
-   
-    
+    Telefono VARCHAR(20),
+    Correo VARCHAR(44),
+    usuario VARCHAR(44),
+    contraseña VARCHAR(44)
 );
+
+quitar el modo seguro de el gestor de base de datos por si acaso 
 
 
