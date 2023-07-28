@@ -14,4 +14,5 @@ Para ejecutar el proyecto haga click en
 src, despues main, despues com, despues mycompany.finalp ,despues click derecho en la clase pantalla y despues ejecutar
 
 nota: recuerde activar su base de datos 
-
+-link del video
+https://www.youtube.com/watch?v=W998Y-aucuw
