@@ -13,5 +13,5 @@ abrir el doc creacion de base de datos
 Para ejecutar el proyecto haga click en 
 src, despues main, despues com, despues mycompany.finalp ,despues click derecho en la clase pantalla y despues ejecutar
 
-nota: recuerde activar su base de datos 
+nota: recuerde activar su base de datos.
 
