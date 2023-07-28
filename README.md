@@ -1,4 +1,10 @@
-# FinalP Proyecto CRUD
+# FinalP Proyecto CRUD  login con Java swing/look and feel maven/mysql 
+<!------>
+![](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 Por favor abrir el readme informacion importante 
 #Proyecto CRUD para la materia Programacion 1 ,por Isaac Alexander Polonio Lorenzo, matricula 2022-1934
 
